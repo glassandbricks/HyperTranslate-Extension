@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Hypertranslate",
+  "version": "1.0",
+  "description": "Quickly run text through 100 translations directly from your browser toolbar.",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
